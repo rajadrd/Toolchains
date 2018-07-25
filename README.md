@@ -8,7 +8,7 @@ collections of various AArch64 toolchains
 - linaro 7.x under *opt-linaro-7.x* branch
 - GCC 8.x under *opt-gnu-8.x* branch
 - GCC 7.x under *opt-gnu-7.x* branch
-- DragonTC 7.x (Clang based) under *dragonTC-7.0*
+- DragonTC 7.x (Clang based) under *dragonTC-7.0* branch
 
 
 ## **Usage:**
