@@ -15,8 +15,8 @@ collections of various AArch64 toolchains
 
 - `git clone https://github.com/Blacksuan19/Toolchains.git`
 
-- and just git checkout `branch`
-> a good exanple of that is my kernel [build script](https://github.com/Blacksuan19/android_kernel_dark_ages/blob/darky/build.sh) which has the option to switch toolchains bassed on thing repo  
+- and just `git checkout branch`
+> a good example of that is my kernel [build script](https://github.com/Blacksuan19/android_kernel_dark_ages/blob/darky/build.sh) which has the option to switch toolchains bassed on thing repo  
 
 
 
